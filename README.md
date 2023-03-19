@@ -1,6 +1,4 @@
 # Coding challenge
-
-Description
 This code challenge includes 3 of the following applications:
 # student-grading
 Student Grade program which prompts the user for marks of a student and in return it returns the correct grade for the student
@@ -13,11 +11,12 @@ https://www.aren.co.ke/payroll/taxrates.htmLinks to an external site.
 
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 
+Project Setup:
 
 
 
 
-
+Author & License
 
 
 
